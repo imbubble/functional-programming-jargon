@@ -3,7 +3,7 @@
     "title": "Functional Programming Jargon",
     "description": null,
     "structure": {
-        "readme": "README.md"
+        "readme": "readme.md"
     },
     "plugins": [
         "anchors"
