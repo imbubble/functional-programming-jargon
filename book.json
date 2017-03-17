@@ -1,0 +1,11 @@
+{
+    "generator": "site",
+    "title": "Functional Programming Jargon",
+    "description": null,
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "anchors"
+    ]
+}
